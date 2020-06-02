@@ -1,4 +1,4 @@
-# filament_monitor
+# filament-monitor
 ## Overview
 Suplementary code for a filament monitor I designed for use with the Ender 3. In the past I've used some lower quality filaments that have a tendency to snap and ruin prints. I'm also continually frustrated by situations where the printer runs out of filament mid print. This system hopes to solve this by sending a notification to your phone when the filament runs out, so you can run on over and pause the print. It uses two rotary encoders and a raspberry pi to detect both when the printer is printing and when the filament has stopped. If the filament stops the pi sends a notification to a paired phone. See [here](https://www.thingiverse.com/thing:4414140) for the thingiverse model files and required parts. 
 
